@@ -1,0 +1,13 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.fuelType,entity.modelId,entity.modetlType,entity.trim,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+QASHQAIJ12A,Nissan Qashqai,Vivo,,id1,30440,https://mayan1394.github.io/product_recommendations/prod1.html,1,,"[""Petrol"",""Diesel""]",20100,SUV,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
+JUKEF16A,Nissan Juke,Vivo,,id2,20985,https://mayan1394.github.io/product_recommendations/prod2.html,1,,"[""Petrol"",""Diesel""]",30100,Hatchback,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
+LEAFZE1A,Nissan LEAF,Vivo,,id3,28495,https://mayan1394.github.io/product_recommendations/prod3.html,1,,"[""Petrol"",""Diesel"", ""Electric""]",40100,Hatchback,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
+ARIYAFE0A,Nissan ARIYA,iPhone,,id4,39645,https://mayan1394.github.io/product_recommendations/prod4.html,1,,"[""Petrol"",""Diesel"",""Electric""]",50100,SUV,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
+XTRAILT33A,Nissan X-Trail,iPhone,,id5,32890,https://mayan1394.github.io/product_recommendations/prod5.html,0,,"[""Petrol"",""Diesel""]",60100,Sedan,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
+TOWNSTARVANXFK1,Nissan Townstar,iPhone,,id6,74900,https://mayan1394.github.io/product_recommendations/prod6.html,0,,"[""Petrol"",""Diesel""]",70100,Sedan,"[""t1"", ""t2"", ""t3"", ""t4""]",,,,,,,
