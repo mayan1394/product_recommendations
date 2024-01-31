@@ -1,0 +1,12 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.modelCode,entity.grade,entity.version,entity.fuelType,entity.transmission,entity.driveTrain,entity.fullColour,entity.fuelConsumption,entity.value,entity.dealerName,entity.eimCode,entity.versionCode,entity.inventoryId,entity.modelSpecCode,entity.inventoryDrawer
+JUKEF16A_F93BI3F01_Z11G_FRNARUYF16UEBHUBR-,,,,,25210,,1,,JUKEF16A,N-Connecta,DIG-T 114 2WD,Petrol,Manual,2WD,Z11G,48.7 mpg,25210,Glyn Hopkin Ltd,FRNARUYF16UEBHUBR-,F93BI3F01,SJNFAAF16U1294693,29898,inventoryDrawer_test
+SJNFAAF16U1294693,,,,,25210,,1,,JUKEF16A,N-Connecta,DIG-T 114 2WD,Petrol,Manual,2WD,Z11G,48.7 mpg,25210,Glyn Hopkin Ltd,FRNARUYF16UEBHUBR-,F93BI3F01,SJNFAAF16U1294693,29898,inventoryDrawer_test
+JUKEF16A_F93BI3F01_XDXG_FRNARUYF16UEBHUBS-,,,,,25730,,1,,JUKEF16A,N-Connecta,DIG-T 114 2WD,Petrol,Manual,2WD,XDXG,48.7 mpg,25730,Wessex Garages Cardiff,FRNARUYF16UEBHUBS-,F93BI3F01,SJNFAAF16U1297091,29898,inventoryDrawer_test
+SJNFAAF16U1297091,,,,,25730,,1,,JUKEF16A,N-Connecta,DIG-T 114 2WD,Petrol,Manual,2WD,XDXG,48.7 mpg,25730,Wessex Garages Cardiff,FRNARUYF16UEBHUBS-,F93BI3F01,SJNFAAF16U1297091,29898,inventoryDrawer_test
+JUKEF16A_F94HIHG01_KBYG_FDTARVXF16HEB7TDRC,,,,,30455,,1,,JUKEF16A,Tekna,Hybrid 143 2WD,Petrol / Electric,Automatic,2WD,KBYG,56.5 mpg,30455,West Way Coventry,FDTARVXF16HEB7TDRC,F94HIHG01,SJNFCAF16U1297142,29898,inventoryDrawer_test
