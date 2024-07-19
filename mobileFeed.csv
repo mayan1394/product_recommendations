@@ -1,0 +1,12 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.rating,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+mobile1,Mob 1,,"Hello, Mob 1",https://5.imimg.com/data5/SELLER/Default/2023/3/296178265/EX/FQ/OZ/186724856/vivo-mobile-phone.jpg,5000,www.marcel.com,,,5,,,,,,,,,,
+mobile2,Mob 2,,"Hello, Mob 2","https://m.media-amazon.com/images/I/314Rp+8XKWL._AC_SR300,300.jpg",6000,www.marcel.com,,,3,,,,,,,,,,
+mobile3,Mob 3,,"Hello, Mob 3",https://www.reliancedigital.in/medias/Samsung-Galaxy-Celestine-Blue-Mobile-Phone-494353239-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MzE4NnxpbWFnZS9qcGVnfGltYWdlcy9oYzUvaDQzLzEwMTM1NDA1MTk5MzkwLmpwZ3wyNDQ1OThlNmEwZWI4YzlhZDEzZTY5NzI3ZGM5M2Y0OTdmOWUwZGNkZWUzZjBkNGY5OTgwNGM5MDg5NzQ4M2E2,7000,www.marcel.com,,,2,,,,,,,,,,
+mobile4,Mob 4,,"Hello, Mob 4",https://cdn1.smartprix.com/rx-ic85kglZW-w420-h420/samsung-galaxy-a74-5.jpg,8000,www.marcel.com,,,3,,,,,,,,,,
+mobile5,Mob 5,,"Hello, Mob 5",https://tiimg.tistatic.com/fp/1/007/573/light-weight-black-grey-samsung-metro-313-double-sim-keypad-mobile-phone-669.jpg,9000,www.marcel.com,,,2.5,,,,,,,,,,
